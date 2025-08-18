@@ -5,5 +5,5 @@ I have written a simple code. I am still a beginner. I have fetched the details 
 
 ## Technologies Used
 
-Python 
-Dragon Ball API (Public)
+* Python<br>
+* Dragon Ball API (Public)
